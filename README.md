@@ -147,18 +147,10 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 Your Name
-GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [https://github.com/smitabharat](https://github.com/smitabharat)
 
 ---
 
 ⭐ If you find this helpful, consider giving it a star!
 
-```
-
----
-
-If you want, I can customize this with:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- Or :contentReference[oaicite:2]{index=2} 🔥
 ```
