@@ -77,6 +77,8 @@ go run employee_server.go
 go run fiber_add_api.go
 go run two_sum.go
 go run constants_example.go
+go run odd_even_server.go
+go run fiber_employee_post.go
 ```
 
 ---
