@@ -5,30 +5,6 @@ A collection of beginner-to-intermediate Go (Golang) programs demonstrating core
 
 ---
 
-## 📂 Project Structure
-
-```
-
-go-practice/
-│
-├── http-server/
-│   └── employee_server.go
-│
-├── fiber-api/
-│   └── fiber_add_api.go
-│
-├── algorithms/
-│   └── two_sum.go
-│
-├── basics/
-│   └── constants_example.go
-│
-└── README.md
-
-````
-
----
-
 ## 🧩 Programs Included
 
 ### 1. 📡 Employee HTTP Server
@@ -97,10 +73,10 @@ go version
 Run each program individually:
 
 ```bash
-go run http-server/employee_server.go
-go run fiber-api/fiber_add_api.go
-go run algorithms/two_sum.go
-go run basics/constants_example.go
+go run employee_server.go
+go run fiber_add_api.go
+go run two_sum.go
+go run constants_example.go
 ```
 
 ---
