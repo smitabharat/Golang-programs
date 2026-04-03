@@ -86,7 +86,7 @@ go run constants_example.go
 Before running Fiber API:
 
 ```bash
-go mod init go-practice
+go mod init Golang-programs
 go get github.com/gofiber/fiber/v2
 ```
 
