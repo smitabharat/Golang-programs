@@ -146,7 +146,8 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name
+Smita Bharat
+
 GitHub: [https://github.com/smitabharat](https://github.com/smitabharat)
 
 ---
